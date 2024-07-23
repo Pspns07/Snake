@@ -1,0 +1,1 @@
+print(name + ' likes ' + fav_color)
